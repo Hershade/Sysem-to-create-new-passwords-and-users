@@ -1,5 +1,3 @@
-from enum import unique
-
 
 new_user = {}
 users = []
